@@ -7,23 +7,27 @@ body{
        margin-right: 25%;
        margin-left: 25%;
        background-color:whitesmoke;
+       height: 50%;
    }
+header{
+    height: 20%;
+}
 
 
+#templabel,#tempf{
+    margin-left: 10px;
+
+}
    h1{
-
-    text-align: center;
+text-align: center;
 font-size: 30px;
-font-family: 'Oswald', sans-serif;
 background-color:rgb(42, 32, 178);
+
+color:white;
 }
 
 .but{
-    /* border: 2px solid grey; */
-    /* border: none; */
-    /* background-color: white; */
     color:white;
-    /* padding: 0; */
     font-size: 30px;
     margin-top: 25px;
     margin-bottom: 10px;
