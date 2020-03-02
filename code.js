@@ -10,7 +10,7 @@ function tempcalc(){
         }
     else{
     let tempcalc = Number(temp.value)+273.15;
-    tempf.innerHTML = `Temperature in F: ${tempcalc}F`;
+    tempf.innerHTML = `Temperature in Fahrenheit: ${tempcalc}F`;
     
     }
 }
