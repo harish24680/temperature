@@ -1,2 +1,2 @@
 # temperature
-Converts Temperature
+Converts Celsius Temperature to Fahrenheit
